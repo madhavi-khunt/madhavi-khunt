@@ -19,6 +19,7 @@
    TypeScript    
     
 ## 💞️ I’m looking to collaborate on
+   Full-stack projects
     
 ## 😄 Pronouns 
    She/Her 🙋‍♀️
