@@ -248,15 +248,15 @@ DevOps & Cloud           ██████████░░░░░░░░�
   <img src="https://img.shields.io/badge/GitHub-madhavi--khunt-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<a href="www.linkedin.com/in/madhavi-khunt">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR-EMAIL@gmail.com">
+<a href="mailto:madhavikhunt47@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="YOUR-PORTFOLIO-LINK">
+<a href="https://madhavi-khunt.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-7F52FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
