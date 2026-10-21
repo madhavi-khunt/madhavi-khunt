@@ -24,7 +24,7 @@
 
 javascript
 const madhavi = {
-  role: "MERN Stack Developer",
+  role: "FULL Stack Developer",
   location: "India 🇮🇳",
 
   frontend: [
